@@ -44,4 +44,4 @@ the difference. This guide exists to change that.
 
 ---
 
-Built by [ADA — Accurate Data Annotator](https://batoul2020.github.io)
+Built by [ADA — Accurate Data Annotator](https://www.linkedin.com/company/accurate-data-annotator/?viewAsMember=true)
